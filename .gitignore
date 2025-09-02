@@ -212,6 +212,7 @@ __marimo__/
 # VsCode
 .vscode
 
-# datafolder
-data
-pika_data
+# datafolders
+data/
+pika_data/
+pikachu.json
