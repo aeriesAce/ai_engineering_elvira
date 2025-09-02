@@ -215,4 +215,4 @@ __marimo__/
 # datafolders
 data/
 pika_data/
-pikachu.json
+*.json
