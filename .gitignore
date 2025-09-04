@@ -216,3 +216,4 @@ __marimo__/
 data/
 pika_data/
 *.json
+output_data
